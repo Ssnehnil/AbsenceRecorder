@@ -22,6 +22,7 @@
 		F60BCB4527AB455A0028B186 /* Division.swift in Sources */ = {isa = PBXBuildFile; fileRef = F60BCB4427AB455A0028B186 /* Division.swift */; };
 		F60BCB4827ABAE6B0028B186 /* Date.swift in Sources */ = {isa = PBXBuildFile; fileRef = F60BCB4727ABAE6B0028B186 /* Date.swift */; };
 		F60BCB4A27ABB3470028B186 /* DivisionItem.swift in Sources */ = {isa = PBXBuildFile; fileRef = F60BCB4927ABB3470028B186 /* DivisionItem.swift */; };
+		F6BF212727B277B400E47AB4 /* AbsenceItem.swift in Sources */ = {isa = PBXBuildFile; fileRef = F6BF212627B277B400E47AB4 /* AbsenceItem.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -60,6 +61,7 @@
 		F60BCB4427AB455A0028B186 /* Division.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Division.swift; sourceTree = "<group>"; };
 		F60BCB4727ABAE6B0028B186 /* Date.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Date.swift; sourceTree = "<group>"; };
 		F60BCB4927ABB3470028B186 /* DivisionItem.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DivisionItem.swift; sourceTree = "<group>"; };
+		F6BF212627B277B400E47AB4 /* AbsenceItem.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AbsenceItem.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -163,6 +165,7 @@
 				F608F94F27B1C7430013AE77 /* AbsenceView.swift */,
 				F608F95127B1C8A90013AE77 /* RootTabView.swift */,
 				F608F95327B1CA780013AE77 /* StatisticsView.swift */,
+				F6BF212627B277B400E47AB4 /* AbsenceItem.swift */,
 			);
 			path = View;
 			sourceTree = "<group>";
@@ -309,6 +312,7 @@
 				F60BCB4827ABAE6B0028B186 /* Date.swift in Sources */,
 				F608F95227B1C8AA0013AE77 /* RootTabView.swift in Sources */,
 				F60BCB4327AB44D20028B186 /* Student.swift in Sources */,
+				F6BF212727B277B400E47AB4 /* AbsenceItem.swift in Sources */,
 				F608F95427B1CA780013AE77 /* StatisticsView.swift in Sources */,
 				F60BCB4527AB455A0028B186 /* Division.swift in Sources */,
 				F60BCB1727AB41910028B186 /* AbsenceRecorderApp.swift in Sources */,
